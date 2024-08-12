@@ -1,21 +1,24 @@
 {
-    "username": "noriaku",
+    "username": "Dev",
     
-    "country": "Peru",
-    "city": "Lima",
+    "country": "India",
+    "city": "Faridabad",
 
     "categories": {
         "work": {
-            "slack": "https://slack.com/",
-            "trello": "https://trello.com"
-        },
-        "news": {
-            "xataka": "https://xataka.com",
-            "theverge": "https://theverge.com"
+            "github": "https://github.com/",
+            "theOdinProject": "https://www.theodinproject.com/dashboard"
+            "proton": "https://proton.me/"
+            "gmail": "https://gmail.com"
         },
         "social": {
-            "github": "https://github.com",
             "reddit": "https://reddit.com"
+            "instagram": "https://instagram.com"
+            "youtube": "https://youtube.com"
+            "discord": "https://discord.com"
+        },
+        "piracy": {
+            "megathread": "https://rentry.co/megathread"
         }
     }
 }
